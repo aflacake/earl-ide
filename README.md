@@ -1,0 +1,2 @@
+# earl-ide
+Desktop IDE
